@@ -7,6 +7,6 @@ Hola ✌️  soy el explorer Angel Ojeda y este es mi blog personal donde compar
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-Dentro d emis expectativas es utilizar bien Node y todo lo que pueda aprender, estudie algo a fin aunque siento que me falta mucho por aprender, con algo tan sencillo como la terminal o el editor de textos me di cuenta lo poco que se y lo mucho que me gustaria aprender.
+Dentro de mis expectativas es utilizar bien Node y todo lo que pueda aprender, estudie algo a fin aunque siento que me falta mucho por aprender, con algo tan sencillo como la terminal o el editor de textos me di cuenta lo poco que se y lo mucho que me gustaria aprender.
 
 🚀
