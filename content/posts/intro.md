@@ -15,4 +15,4 @@ Para mi la cultura de un profesional del software se basa en lo siguiente:
 - Apoyo
 - Humildad
 
-Esto e slo que considero más importante.
+Esto es lo que considero más importante.
