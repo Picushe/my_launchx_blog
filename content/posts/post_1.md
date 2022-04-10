@@ -1,5 +1,5 @@
 ---
-title: "Título de tu blog post"
+title: "Mi ruta de aprendizaje en LaunchX"
 date: 2022-04-10
 description: 'Contare mi viaje por LaunchX'
 ---
