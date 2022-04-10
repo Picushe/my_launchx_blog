@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://picushe.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Título de tu blog post</title>
+      <link>https://picushe.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://picushe.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>A lo largo de este viaje e aprendido: En el caso de la mision Frontend, repase temas que ya habia visto pero que no habia practicado, no pude hacer las katas por falat de tiempo, pero vi los live. Tambien vi cosas nuevas especialmente al inicio y que me costaron trabajo, porque normalmente no recavo los requerimientos. En el caso de Backend me di cuenta lo importante que son las herramientas, mi SO si bien lo conozco mucho mas, creo que podria saber mas cosas para hacer mas eficiente mi trabajo.</description>
+    </item>
+    
+    <item>
       <title>La cultura en el desarrollo de software</title>
       <link>https://picushe.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
