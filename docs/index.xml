@@ -6,7 +6,16 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://picushe.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://picushe.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La primera semana</title>
+      <link>https://picushe.github.io/my_launchx_blog/posts/post_2/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://picushe.github.io/my_launchx_blog/posts/post_2/</guid>
+      <description>Semana 1 Bueno en mi primer semana, recapitule y vi elementos de JS que ya habia antes utilizado, pero que no habia practicado ultimamente ya que estoy desarrollando sobre Wordpress y es un tanto distinto. Me agrado poder de igual manera recordar la parte de POO de la universidad, donde teniamos las clases, objetos, constructores, funciones, parametros, atributos etc. Me emociona nuevamente tener que escribir el codigo y de la misma ver como analizando los ejemplos puedo encontrar la solución a los ejercicios propuestos.</description>
+    </item>
+    
     <item>
       <title>Mi ruta de aprendizaje en LaunchX</title>
       <link>https://picushe.github.io/my_launchx_blog/posts/post_1/</link>
